@@ -1,0 +1,13 @@
+aging_bucket,customer_segment,invoice_count,outstanding_amount
+0-30 days,Enterprise,88,8440349.79
+0-30 days,Mid-Market,89,2294554.79
+0-30 days,SMB,52,353501.77
+31-60 days,Enterprise,8,746575.73
+31-60 days,Mid-Market,7,153675.1
+31-60 days,SMB,6,41717.38
+61-90 days,Enterprise,4,508318.94
+61-90 days,Mid-Market,8,136647.05
+61-90 days,SMB,3,24044.48
+90+ days,Enterprise,40,4013691.32
+90+ days,Mid-Market,40,1021557.52
+90+ days,SMB,62,401182.46

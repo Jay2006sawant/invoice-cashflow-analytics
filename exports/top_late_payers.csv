@@ -1,0 +1,11 @@
+customer_name,customer_segment,total_invoices,late_invoices,late_rate_pct,avg_days_to_pay,total_invoice_value
+Ironclad Security,SMB,108,51,47.2,56.9,684680.6
+Union Transport,Mid-Market,94,37,39.4,65.4,2326817.1
+Xeno Packaging,SMB,107,41,38.3,66.8,652905.06
+Brightline Retail,SMB,99,37,37.4,61.5,608767.77
+Granite Construction,Enterprise,105,34,32.4,74.3,10799954.91
+Acme Logistics,SMB,93,30,32.3,51.4,618157.86
+Yellowstone Mining,Enterprise,98,31,31.6,83.5,10686056.65
+Delta Manufacturing,Enterprise,101,31,30.7,87.5,10143082.02
+Riverstone Hotels,Mid-Market,95,29,30.5,71.0,2262959.89
+Northstar Wholesale,Mid-Market,90,25,27.8,61.9,2247844.05
